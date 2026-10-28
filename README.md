@@ -43,17 +43,15 @@
 
 如果它帮到了你，欢迎请作者喝杯奶茶 ☕ —— 捐赠完全自愿，**不捐赠不影响任何功能**，软件也会持续免费更新。
 
-| 微信赞赏 | 支付宝 |
+| 微信 | 支付宝 |
 |:---:|:---:|
-| ![微信赞赏码](docs/images/wechat_reward.png) | ![支付宝收款码](docs/images/alipay.png) |
+| ![微信收款码](<img width="563" height="563" alt="weixin_qr" src="https://github.com/user-attachments/assets/fffaca1e-11d3-4b78-a012-b5651b0c286d" />) | ![支付宝收款码](<img width="670" height="670" alt="zhifubao_qr" src="https://github.com/user-attachments/assets/1b2504fe-579b-48c3-8464-c727a9f3a9c1" />) |
 
-也可以通过以下平台支持：
-
-- 爱发电：`https://afdian.com/a/<你的ID>`（替换为你的链接）
 
 > 每一份支持都是持续更新的动力，感谢！🙏
 
 ## 📄 版权与许可
+
 
 - 本仓库**仅发布构建安装包，不公开源代码**
 - 本软件仅供个人非商业用途免费使用
