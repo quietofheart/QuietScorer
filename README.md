@@ -45,7 +45,7 @@
 
 | 微信 | 支付宝 |
 |:---:|:---:|
-| ![微信收款码](<img width="563" height="563" alt="weixin_qr" src="https://github.com/user-attachments/assets/fffaca1e-11d3-4b78-a012-b5651b0c286d" />) | ![支付宝收款码](<img width="670" height="670" alt="zhifubao_qr" src="https://github.com/user-attachments/assets/1b2504fe-579b-48c3-8464-c727a9f3a9c1" />) |
+| ![微信收款码](./weixin_qr.png) | ![支付宝收款码](./zhifubao_qr.png) |
 
 
 > 每一份支持都是持续更新的动力，感谢！🙏
